@@ -1,0 +1,25 @@
+﻿15.11.2021 15:21:51,3264;MES;V-V;Run                 Farmer, wolf, sheep and cabbage have come into life
+15.11.2021 15:21:51,3363;MES;V-V;Run                 Now we have a river with a left bank (origin) and a right bank (destination)
+15.11.2021 15:21:51,3638;MES;V-V;Run                 
+
+Initialisation finished - gameboard completed. Now let's play!
+--------------------------------------------------------------
+
+Press <ANYKEY> to continue...
+
+
+15.11.2021 15:21:52,3645;MES;V-V;Run                 'left bank (origin)' => 'right bank (destination)': 'sheep'
+15.11.2021 15:21:52,3744;MES;V-V;Run                 'right bank (destination)' => 'left bank (origin)': empty
+15.11.2021 15:21:52,3834;MES;V-V;Run                 'left bank (origin)' => 'right bank (destination)': 'wolf'
+15.11.2021 15:21:52,3894;MES;V-V;Run                 'right bank (destination)' => 'left bank (origin)': 'sheep'
+15.11.2021 15:21:52,3979;MES;V-V;Run                 'left bank (origin)' => 'right bank (destination)': 'cabbage'
+15.11.2021 15:21:52,4054;MES;V-V;Run                 'right bank (destination)' => 'left bank (origin)': empty
+15.11.2021 15:21:52,4113;MES;V-V;Run                 'left bank (origin)' => 'right bank (destination)': 'sheep'
+15.11.2021 15:21:52,4188;MES;V-V;Run                 
+
+All attendees are at destination - game finished!
+-------------------------------------------------
+
+Press <ANYKEY> to continue...
+
+
