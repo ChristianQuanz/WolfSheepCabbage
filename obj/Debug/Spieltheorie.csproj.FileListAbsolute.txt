@@ -1,7 +1,0 @@
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\obj\Debug\Spieltheorie.csproj.CoreCompileInputs.cache
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\bin\Debug\Spieltheorie.exe.config
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\bin\Debug\Spieltheorie.exe
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\bin\Debug\Spieltheorie.pdb
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\obj\Debug\Spieltheorie.exe
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\obj\Debug\Spieltheorie.pdb
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\Spieltheorie\Spieltheorie\obj\Debug\Spieltheorie.csprojAssemblyReference.cache

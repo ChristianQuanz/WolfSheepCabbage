@@ -1,8 +1,0 @@
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\obj\Debug\WolfSchafKohlkopf.csproj.CoreCompileInputs.cache
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\obj\Debug\WolfSchafKohlkopf.csprojAssemblyReference.cache
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\bin\Debug\WolfSchafKohlkopf.exe.config
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\bin\Debug\WolfSchafKohlkopf.exe
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\bin\Debug\WolfSchafKohlkopf.pdb
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\obj\Debug\WolfSchafKohlkopf.exe
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\obj\Debug\WolfSchafKohlkopf.pdb
-Z:\Dropbox\Geschäftlich\Inceptum DS\Interne Projekte\WolfSchafKohlkopf\WolfSchafKohlkopf\bin\Debug\ExternalLibs\LightCodes.dll
